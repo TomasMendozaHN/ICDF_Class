@@ -10,3 +10,4 @@
 6. May 05 ----> CNN + Transfer Learning with VGG16
 7. May 11 ----> LSTM for Time series prediction, and text generation
 8. May 18 ----> Finetuning a Faster-RCNN model for face-mask detection
+9. May 25 ----> YOLO V3, openCV, Face detection, and object detection on WEBCAM Stream!
